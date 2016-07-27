@@ -84,9 +84,9 @@ $ gradle init --type java-library
 $ gradle build 
 ```
 
-* 빌드 실행 결과 삭제 
+* 빌드 결과물 삭제 
 ```
-$ gradle clean 
+$ gradle clean [태스크명]
 ```
 
 * 프로젝트 테스트 
