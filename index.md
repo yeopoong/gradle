@@ -69,7 +69,9 @@ $ gradle --version
         testCompile group: "junit:junit:4.11'
     }
     ```
-
+  
+  
+   
 ### Gradle 명령어
 
 * 프로젝트 생성 
@@ -119,7 +121,8 @@ compileJava.options.encoding = 'UTF-8'
 compileTestJava.options.encoding = 'UTF-8'
 ```
 
-* Eclipse 설정 추가 
+* Eclipse 설정 추가   
+
 ```gradle
 eclipse {
     wtp {
